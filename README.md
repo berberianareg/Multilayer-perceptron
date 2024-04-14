@@ -1,6 +1,6 @@
 # Multilayer perceptron (1986)
 
-## Multilayer perceptron for supervised learning.
+## Multilayer perceptron for supervised machine learning.
 
 ### Table of Contents
 
@@ -23,7 +23,7 @@
 
 ## Description
 
-"Multilayer perceptron for supervised learning."
+"Multilayer perceptron for supervised machine learning."
 
 #### Technologies
 
@@ -43,7 +43,7 @@
 
 #### Getting started
 
-`git clone https://github.com/berberianareg/Multilayer-perceptron.git`
+`gh repo clone berberianareg/Multilayer-perceptron`
 
 #### Dependencies
 
